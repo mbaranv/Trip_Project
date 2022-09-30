@@ -1,4 +1,3 @@
-package Trip;
 //GİtHub'a sevgilerle
 import java.util.Scanner;
 
