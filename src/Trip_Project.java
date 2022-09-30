@@ -1,4 +1,4 @@
-//GİtHub'a sevgilerle
+//Java Project for GitHub
 import java.util.Scanner;
 
 public class Trip_Project {
