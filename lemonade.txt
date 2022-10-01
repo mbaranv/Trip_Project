@@ -4,4 +4,4 @@ Lemonade recipe:
 3.Sugar
 4.Mint
 5.Pipet
-6.sssss
+6.Salt
